@@ -9,7 +9,7 @@
 <p  align="center">
   <code><img width="5%" title="Python" src="./images/icons/Python-logo-notext.svg"></code>
   <code><img width="5%" title="PyCharm" src="./images/icons/pycharm.svg"></code>
-  <code><img width="5%" title="Allure Report" src="./images/allure-Report-logo.svg"></code>
+  <code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
   <code><img width="5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
   <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
