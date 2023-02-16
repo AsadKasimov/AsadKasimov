@@ -23,6 +23,6 @@
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GithubRedMouth&repo=qa_guru_3_16)]([https://github.com/vonoelv/bookmate-test-project](https://github.com/GithubRedMouth/qa_guru_3_16))-->
 
-#### Тестирование UI
+### Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/GithubRedMouth/qa_guru_3_16">look.online</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы интернет магазина look.online, а также поиск заданной одежды.</br></br>
