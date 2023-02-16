@@ -18,39 +18,10 @@
   <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
 
 </p>
-
-### Пример проекта автоматизации тестирования (веб-тесты, API и мобильные тесты):
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GithubRedMouth&repo=qa_guru_3_16)]([https://github.com/vonoelv/bookmate-test-project](https://github.com/GithubRedMouth/qa_guru_3_16))
-
-A list of important facts about the project:
-- [x] `Page Object` with steps using `Chain of Invocations`
-- [x] Fake data generating with `Faker` library
-- [x] Parametrized tests
-- [x] Parametrized build
-- [x] Different configuration files for test running depending on build parameters
-- [x] Config with `Owner` library
-- [x] Using `Lombok` for models for API tests
-- [x] Objects serialization/deserialization for API requests/responses using `Jackson`
-- [x] Using request/response specifications for API tests
-- [x] Custom Allure listener for beautiful API requests/responses logging
-- [x] `Allure TestOps` integration
-- [x] Autotests as test documentation
-- [x] `Github webhooks` on each push to trigger `Jenkins` build
-- [x] `Jira` integration
-- [x] Parallel execution
-
+### Примеры автоматизации тестирования (веб-тесты, API и мобильные тесты):
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GithubRedMouth&repo=qa_guru_3_16)]([https://github.com/vonoelv/bookmate-test-project](https://github.com/GithubRedMouth/qa_guru_3_16))-->
 
-**vonoelv/vonoelv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Тестирование UI
+:link: Тестовый проект: <a target="_blank" href="https://github.com/GithubRedMouth/qa_guru_3_16">look.online</a></br></br>
+:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы интернет магазина look.online, а также поиск заданной одежды.</br></br>
