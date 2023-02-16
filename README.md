@@ -18,6 +18,7 @@
   <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
 
 </p>
+
 ### Примеры автоматизации тестирования (веб-тесты, API и мобильные тесты):
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GithubRedMouth&repo=qa_guru_3_16)]([https://github.com/vonoelv/bookmate-test-project](https://github.com/GithubRedMouth/qa_guru_3_16))-->
