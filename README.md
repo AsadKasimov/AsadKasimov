@@ -1,14 +1,13 @@
-### Привет! :speech_balloon:
-Меня зовут Асадбег. И я инженер по тестированию программного обеспечения.
+## Привет! :speech_balloon:
+Меня зовут Асад. И я инженер по тестированию программного обеспечения.
 ---
-
-### Про меня:
-
 
 ### Инструменты и технологии:
 <p  align="center">
   <code><img width="5%" title="Python" src="./images/icons/Python-logo-notext.svg"></code>
   <code><img width="5%" title="PyCharm" src="./images/icons/pycharm.svg"></code>
+  <code><img width="6%" title="PyCharm" src="./images/icons/pytest.png"></code>
+  <code><img width="6%" title="PyCharm" src="./images/icons/selene.png"></code>
   <code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
   <code><img width="5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
   <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
