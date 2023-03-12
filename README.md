@@ -3,6 +3,7 @@
 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GithubRedMouth)](https://github.com/GithubRedMouth/github-readme-stats)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/GithubRedMouth/qa_guru_3_16">look.online</a></br></br>
