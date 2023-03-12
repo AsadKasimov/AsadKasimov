@@ -47,9 +47,9 @@
 :heavy_check_mark: Реализованы автотесты Rest Api на reqres.in и demowebshop.tricentis.com.</br></br>
 :triangular_flag_on_post: Что особенного:
 
-- [x] Описание модели получаемых данных с помощью библиотеки Lombok
+- [x] Инкапсулирована обращение к URL
 - [x] Шаблоны форматирования логов запросов
-
+- [x] Проверка ответа сайта через Shema
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/AsadKasimov/head_hunter_mobile">head_hunter_mobile</a></br></br>
