@@ -44,16 +44,15 @@
   <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
 
 </p>
-:heavy_check_mark: Реализованы автотесты Rest Api на .</br></br>
+:heavy_check_mark: Реализованы автотесты Rest Api на reqres.in и demowebshop.tricentis.com.</br></br>
 :triangular_flag_on_post: Что особенного:
 
 - [x] Описание модели получаемых данных с помощью библиотеки Lombok
-- [x] Лямбда-подход для описания Allure Step
 - [x] Шаблоны форматирования логов запросов
 
 
 ## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">СКОРО</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/AsadKasimov/head_hunter_mobile">head_hunter_mobile</a></br></br>
 <p  align="center">
   <code><img width="5%" title="Python" src="./images/icons/Python-logo-notext.svg"></code>
   <code><img width="5%" title="PyCharm" src="./images/icons/pycharm.svg"></code>
@@ -68,9 +67,9 @@
   <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
 
 </p>
-:heavy_check_mark: Реализованы автотесты мобильного приложения financisto на эмуляторе мобильного устройства.</br></br>
+:heavy_check_mark: Реализованы автотесты мобильного приложения hh.ru на эмуляторе мобильного устройства.</br></br>
 :triangular_flag_on_post: Что особенного:
 
-- [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
+- [x] Интеграция с Browserstack
 - [x] Степовой подход для описания Allure Step
 - [x] Различные файлы конфигураций для запуска тестов
