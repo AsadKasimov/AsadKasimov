@@ -65,7 +65,7 @@
   <code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
   <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
   <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
-  <code><img width="5%" title="Appium" src=".images/icons/Appium-01.png"></code>
+  <code><img width="5%" title="Appium" src="./images/icons/Appium-01.png"></code>
 
 </p>
 :heavy_check_mark: Реализованы автотесты мобильного приложения hh.ru на эмуляторе мобильного устройства.</br></br>
