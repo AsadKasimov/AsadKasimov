@@ -2,7 +2,7 @@
 Меня зовут Асад. И я - инженер по тестированию программного обеспечения.</br>
 
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GithubRedMouth)](https://github.com/GithubRedMouth/github-readme-stats)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GithubRedMouth)](https://github.com/GithubRedMouth/github-readme-stats)
 
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/GithubRedMouth/qa_guru_3_16">look.online</a></br></br>
