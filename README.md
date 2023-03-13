@@ -2,7 +2,18 @@
 Меня зовут Асад. И я - инженер по тестированию программного обеспечения.</br>
 
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GithubRedMouth)](https://github.com/GithubRedMouth/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadKasimov
+)](https://github.com/GithubRedMouth/github-readme-stats)
+- Email: surovp08@gmail.com
+- Contacts:
+
+<p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/edbeg1337"><img width="32px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/></a>
+  &#8287;
+  <a href="https://vk.com/churka46"><img width="32px" alt="VK" title="Vk" src="images/social_networks/vk.png"/></a>
+  &#8287;
+</p>
 
 ## 💻Стек и инструменты
 
