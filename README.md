@@ -19,6 +19,8 @@
   <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
   <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
   <code><img width="5%" title="Appium" src="./images/icons/Appium-01.png"></code>
+  <code><img width="5%" title="Selenium" src="./images/icons/selenium.png"></code>
+  <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.png"></code>
 
 </p>
 
