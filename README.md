@@ -5,14 +5,15 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadKasimov
 )](https://github.com/GithubRedMouth/github-readme-stats)
 
-- Контакты:</br></br>
- Email: kasimovasad2@gmail.com
+- Контакты:
+
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/edbeg1337"><img width="32px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/></a>
   &#8287;
   <a href="https://vk.com/churka46"><img width="32px" alt="VK" title="Vk" src="./images/icons/vk.png"/></a>
   &#8287;
+  Email: kasimovasad2@gmail.com
 </p>
 
 ## 💻Стек и инструменты
