@@ -6,7 +6,8 @@
 )](https://github.com/GithubRedMouth/github-readme-stats)
 
 - Контакты:
-  Email: kasimovasad2@gmail.com
+
+ Email: kasimovasad2@gmail.com
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/edbeg1337"><img width="32px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/></a>
