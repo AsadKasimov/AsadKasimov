@@ -22,8 +22,8 @@
 <p  align="center">
   <code><img width="5%" title="Python" src="./images/icons/Python-logo-notext.svg"></code>
   <code><img width="5%" title="PyCharm" src="./images/icons/pycharm.svg"></code>
-  <code><img width="6%" title="PyCharm" src="./images/icons/pytest.png"></code>
-  <code><img width="6%" title="PyCharm" src="./images/icons/selene.png"></code>
+  <code><img width="6%" title="Pytest" src="./images/icons/pytest.png"></code>
+  <code><img width="6%" title="Selene" src="./images/icons/selene.png"></code>
   <code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
   <code><img width="5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
   <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
