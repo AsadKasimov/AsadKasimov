@@ -16,7 +16,7 @@
   &#8287;
 
 </p>
-<p><a href="https://disk.yandex.ru/d/uNwqhAVjSWqrNw">Сертификат</a> 📜</p>
+<p><a href="https://drive.google.com/drive/folders/1dUdu4CiMu4hWAodKuBjTUIEYfdgUtfeY?usp=share_link">Сертификат</a> 📜</p>
 
 ## 💻Стек и инструменты
 
@@ -66,3 +66,11 @@
 - [x] Интеграция с Browserstack
 - [x] Степовой подход для описания Allure Step
 - [x] Различные файлы конфигураций для запуска тестов
+
+
+## Дополнительное образование
+<table width="100%" border='0'>
+
+   <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
