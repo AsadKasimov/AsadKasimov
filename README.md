@@ -5,18 +5,16 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadKasimov
 )](https://github.com/GithubRedMouth/github-readme-stats)
 
-- Контакты:
+| Контакты    |                                                                                       |
+| ----------- |---------------------------------------------------------------------------------------|
+| Email       | kasimovasad2@gmail.com                                                                |
+| Telegram    | <img width="37px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/> |
+| VK          | <img width="31px" alt="VK" title="Vk" src="./images/icons/vk.png"/>                   |
+  
+  
 
-  Email: kasimovasad2@gmail.com
-<p>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/edbeg1337"><img width="37px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/></a>
-  &#8287;
-  <a href="https://vk.com/churka46"><img width="32px" alt="VK" title="Vk" src="./images/icons/vk.png"/></a>
-  &#8287;
 
-</p>
-<p><a href="https://drive.google.com/drive/folders/1dUdu4CiMu4hWAodKuBjTUIEYfdgUtfeY?usp=share_link">Сертификат</a> 📜</p>
+### <p><a href="https://drive.google.com/drive/folders/1dUdu4CiMu4hWAodKuBjTUIEYfdgUtfeY?usp=share_link" color='black'>Сертификат</a> 📜</p>
 
 ## 💻Стек и инструменты
 
